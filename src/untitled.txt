@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bodas de Sangre - Federico García Lorca</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bodas de Sangre</h1>
+        <nav>
+            <ul>
+                <li><a href="#autor">Autor</a></li>
+                <li><a href="#resumen">Breve resumen</a></li>
+                <li><a href="#personajes">Personajes</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="autor">
+        <h2>Federico García Lorca</h2>
+        <img src="Lorca.jpg" alt="Federico García Lorca">
+        <p>Federico García Lorca (1898-1936) fue un poeta, dramaturgo y prosista español, considerado uno de los más importantes del siglo XX. Su obra está marcada por la mezcla de tradición y vanguardia, destacando por su intensidad emocional y su simbolismo.</p>
+    </section>
+
+    <section id="resumen">
+        <h2>Breve resumen de la obra</h2>
+        <p>Esta novela es una tragedia en tres actos y siete cuadros, que explora temas como la pasión, el destino, y la muerte a través de la historia de una boda que termina en tragedia. La obra está llena de simbolismo y refleja las tensiones sociales de la época.</p>
+        <img src="Escape.jpg" alt="Escape">
+        <img src="Pelea.jpg" alt="Pelea">
+        <img src="involucrados.jpg" alt="Involucrados">
+    </section>
+
+    <section id="personajes">
+        <h2>Personajes</h2>
+        <ul>
+            <li><strong>La Novia:</strong> Una mujer atrapada entre el deber y la pasión.</li>
+            <li><strong>El Novio:</strong> Un hombre honesto y trabajador, cuyo amor por la novia lo lleva a la tragedia.</li>
+            <li><strong>Leonardo:</strong> El antiguo amante de la novia, cuya pasión desbordada provoca el conflicto central de la obra.</li>
+            <li><strong>La Madre:</strong> La madre del novio, marcada por la tragedia y el resentimiento.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <img src="Novia ensangrentada.jpg" alt="Novia ensangrentada">
+        <p>&copy; 2024 Trabajo muestra: Bodas de Sangre | Diseñado por Mercedes.</p>
+    </footer>
+</body>
+</html>
